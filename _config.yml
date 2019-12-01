@@ -21,7 +21,13 @@
 title: Achess blog
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Todos tenemos algo que decir, simplemente hay que saber cómo decirlo. Crear un blog es una buena forma de empezar a compartir tus ideas. ¡Hazlo tú también!
+Vamonos de viaje
+Prepara el equipaje
+No hay tiempo ya
+Y al despertar
+La nueva luz
+Nos guiara
+Al mar azul
 baseurl: "achess_blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: achess_
