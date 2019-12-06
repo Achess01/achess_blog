@@ -13,7 +13,7 @@ Nadie lo sabe con certeza cómo comenzó todo. La formación del universo, aunqu
 </p>
 
 <p align="justify">
-Hay muchas teorías que hablan de lo que hubo antes de la vida, pero también hay otras que hablan de lo que hay depués de ella. Hay quienes creen que en el cielo y el infierno, que tus acciones determinarán a donde irás. La religión hindú por ejemplo, cree en la reencarnación. Dicen que tus acciones determinarán el nuevo cuerpo de tu reencarnación. Existen quienes creen que luego de la vida no hay nada, que cuando mueres se acabó todo. Un día navegando por youtube encontré un <a href="https://www.youtube.com/watch?v=oO5BN_S0yk4&fbclid=IwAR221CR6KrmcUmsBbiIDN2cgYu-18eakiKdUdWuzibKWYujznIBwRyqw9XU">vídeo</a> que aporta otra teoría que puede ser bastante interesante. 
+Hay muchas teorías que hablan de lo que hubo antes de la vida, pero también hay otras que hablan de lo que hay depués de ella. Hay quienes creen que en el cielo y el infierno, que tus acciones determinarán a donde irás. La religión hindú por ejemplo, cree en la reencarnación. Dicen que tus acciones determinarán el nuevo cuerpo de tu reencarnación. Existen quienes creen que luego de la vida no hay nada, que cuando mueres se acabó todo. Un día navegando por youtube encontré un <a href="https://www.youtube.com/watch?v=oO5BN_S0yk4&fbclid=IwAR221CR6KrmcUmsBbiIDN2cgYu-18eakiKdUdWuzibKWYujznIBwRyqw9XU" target="_blank">vídeo</a> que aporta otra teoría que puede ser bastante interesante. 
 </p>
 
 <p align="justify">
